@@ -8,8 +8,7 @@ A Script that Notifies the user when a required level is reached while Charging 
  ┣ 📂venv
  ┣ 📜app.py
  ┣ 📜mybattery.bat
- ┣ 📜charge.vbs
- ┗ 📜package.json
+ ┗ 📜charge.vbs
  ```
 
 ## Step 1: Create a Virtual Environment (venv)
