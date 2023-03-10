@@ -28,10 +28,10 @@ exit
 ```
 Here replace PYTHON_EXE_PATH with python exe path inside venv and replace APP.PY_PATH with app.py path 
 
-- (Eg. replace `APP.PY_PATH` with "C:\Users\pavan\Desktop\Python_Projects\BatteryNotification\venv\Scripts\python.exe" )
+- (Eg. replace `PYTHON_EXE_PATH` with "C:\Users\pavan\Desktop\Python_Projects\BatteryNotification\venv\Scripts\python.exe" )
 
 
-- (Eg. replace `BAT_FILE_PATH` with C:\Users\pavan\Desktop\Python_Projects\BatteryNotification\app.py )
+- (Eg. replace `APP.PY_PATH` with C:\Users\pavan\Desktop\Python_Projects\BatteryNotification\app.py )
 
 ## Step 3: Create a .vbs file as shown below 
 Create a vbs file in the same directory with the below code inside it.(Eg. charge.vbs)
