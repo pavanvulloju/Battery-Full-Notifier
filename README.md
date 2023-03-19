@@ -36,7 +36,7 @@ Here replace PYTHON_EXE_PATH with python exe path inside venv and replace APP.PY
 ## Step 3: Create a .vbs file as shown below 
 Create a vbs file in the same directory with the below code inside it.(Eg. charge.vbs)
 
-This file is need to not show the hovering cmd screen on Desktop
+This file is needed to make the hovering cmd screen on desktop to disappear.
 
 ```vbs
 CreateObject("Wscript.Shell").Run "BAT_FILE_PATH", 0, True
